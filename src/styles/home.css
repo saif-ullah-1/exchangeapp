@@ -1,0 +1,27 @@
+.main-menu {
+  background-color: #20232a;
+  padding: 10px 7px 10px 7px;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 99;
+}
+
+.main {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.exchangeCard {
+  width: 70%;
+  text-align: right;
+}
+.btn-exchange {
+  width: 250px;
+}

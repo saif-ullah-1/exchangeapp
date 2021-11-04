@@ -1,0 +1,68 @@
+.card-1 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 15px 30px 15px;
+  text-align: left;
+  position: relative;
+}
+
+.card-2 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 30px 15px 30px 15px;
+  background-color: #fdf7e2;
+  text-align: left;
+}
+
+.card {
+  background-color: #fff;
+  border: 1px solid black;
+
+  margin-bottom: 10px;
+}
+
+select {
+  border: 1px solid grey;
+  border-radius: 9px;
+  width: 75px;
+  padding: 4px 5px 4px 5px;
+}
+
+input {
+  border: none;
+  background-color: transparent;
+
+  width: 50px;
+}
+
+input:focus {
+  outline: none;
+}
+
+.balance-label {
+  padding: 8px 0px 0px 5px;
+  font-size: 14px;
+  color: grey;
+}
+
+.c-amount {
+  position: absolute;
+  position: absolute;
+  bottom: -10px;
+  width: 100%;
+  text-align: center;
+}
+.c-amount span {
+  border: 1px solid green;
+  border: 1px solid green;
+  padding: 5px 40px 5px 40px;
+  border-radius: 70px;
+  background-color: white;
+  font-size: 14px;
+  color: gray;
+}
