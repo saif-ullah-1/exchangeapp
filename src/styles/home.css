@@ -1,6 +1,6 @@
 .main-menu {
   background-color: #20232a;
-  padding: 10px 7px 10px 7px;
+  padding: 10px 7px 10px 25px;
   color: #fff;
   font-size: 24px;
   font-weight: 700;
@@ -12,6 +12,7 @@
 
 .main {
   display: flex;
+  background-color: #202124;
   width: 100%;
   min-height: 100vh;
   justify-content: center;

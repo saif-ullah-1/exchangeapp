@@ -1,9 +1,7 @@
-import { useEffect } from "react";
 import ExchangeCard from "./component/exchangeCard";
 import "./styles/home.css";
 
 const Home = () => {
-
   return (
     <>
       <div className="main">
